@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+#id1{
+    background-color: black;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: blanchedalmond;
+    font-size: large;
+    
+}
+
+h1{
+    color:white;
+    text-align:center ;
+}
+hr{
+    width: 80%;
+}
+li{
+    padding-top: 2rem;
+}
+#jobb{
+    color: white;
+    background-color: black;
+}
+#bal{
+    width: 50%;
+}
